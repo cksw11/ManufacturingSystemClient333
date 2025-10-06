@@ -393,6 +393,8 @@ void CManufacturingSystemClientView::OnBnClickedButtonDeleteSelected()
 }
 
 // '전송 바구니'에서 키보드 입력 시
+
+//ㅇㅇㅇㅇㅇ
 void CManufacturingSystemClientView::OnLvnKeydownBasketList(NMHDR* pNMHDR, LRESULT* pResult)
 {
 	LPNMLVKEYDOWN pLVKeyDow = reinterpret_cast<LPNMLVKEYDOWN>(pNMHDR);
